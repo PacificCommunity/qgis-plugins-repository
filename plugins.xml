@@ -1,0 +1,22 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="/static/style/plugins.xsl" ?>
+<plugins>
+    <pyqgis_plugin name="Inasafe for the Pacific" version="0.0.1" plugin_id="1">
+        <description><![CDATA[Inasafe plugin tailred for the Pacific. This is just to test the repository...]]></description>
+        <about><![CDATA[This is just to test the repository...]]></about>
+        <version>0.0.1</version>
+        <trusted>False</trusted>
+        <qgis_minimum_version>2.0.0</qgis_minimum_version>
+        <qgis_maximum_version>2.99.0</qgis_maximum_version>
+        <homepage><![CDATA[https://github.com/PacificCommunity/inasafe]]></homepage>
+        <file_name>TODO.zip</file_name>
+        <icon>/static/packages/surveyTODO.png</icon>
+        <author_name><![CDATA[Martin Dobias (Faunalia)]]></author_name>
+        <download_url>http://todo</download_url>
+        <create_date>2012-06-18T09:43:57.251757</create_date>
+        <update_date>2012-06-18T09:43:57.251757</update_date>
+        <experimental>True</experimental>
+        <tracker><![CDATA[https://github.com/PacificCommunity/inasafe/issues]]></tracker>
+        <repository><![CDATA[https://github.com/PacificCommunity/inasafe]]></repository>
+    </pyqgis_plugin>
+</plugins>
